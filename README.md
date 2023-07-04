@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeTAKAHASHI343&langs_count=5&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeTAKAHASHI343&langs_count=5)
 
 <!--
 ### Hi there 👋
