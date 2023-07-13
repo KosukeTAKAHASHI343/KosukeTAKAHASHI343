@@ -1,3 +1,5 @@
+社内用
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeTAKAHASHI343&langs_count=5)
 
 <!--
