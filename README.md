@@ -1,8 +1,10 @@
 社内用
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeTAKAHASHI343&langs_count=5)
 
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosukeTAKAHASHI343&langs_count=5)
+
 ### Hi there 👋
 
 **KosukeTAKAHASHI343/KosukeTAKAHASHI343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
